@@ -4,7 +4,7 @@ I'm Mykhailo Peremskyi a Junior Quality Assurance.
 
 :mailbox: Reach me out!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Mykhailo-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mykhailo-peremskyi/) [![Telegram Badge](https://img.shields.io/badge/-@peremm-1ca0f1?style=flat&labelColor=1ca0f1&logo=telegram&logoColor=white&link)](https://t.me/peremm) [![Twitter Badge](https://img.shields.io/badge/-@mperemm-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/mperemm) [![Mail Badge](https://img.shields.io/badge/-michal.peremskyi-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:michal.peremskyi@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Mykhailo-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mykhailo-peremskyi/) [![Telegram Badge](https://img.shields.io/badge/-@peremm-1ca0f1?style=flat&labelColor=1ca0f1&logo=telegram&logoColor=white&link)](https://t.me/peremm) [![Mail Badge](https://img.shields.io/badge/-michal.peremskyi-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:michal.peremskyi@gmail.com) [![Twitter Badge](https://img.shields.io/badge/-@mperemm-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/mperemm) 
 
 <!-- TODO: Add last video link -->
 
@@ -19,11 +19,11 @@ I'm Mykhailo Peremskyi a Junior Quality Assurance.
 
 ### Test Documentation (in progress)
 
-* Checklists
-* Test Cases
-* Bug Reports
-* Automation Testing
-* SQL Queries
+* Checklists (https://github.com/mperemskyi/checklists)
+* Test Cases (https://github.com/mperemskyi/test-cases)
+* Bug Reports (https://github.com/mperemskyi/bug-reports)
+  *//Automation Testing//*
+* SQL Queries (https://github.com/mperemskyi/sql-queries)
 * Postman Collections
 * Mindmaps and Flowcharts
 
@@ -33,7 +33,7 @@ I'm Mykhailo Peremskyi a Junior Quality Assurance.
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![Postman Badge](https://img.shields.io/badge/-Postman-FE5000?style=for-the-badge&labelColor=black&logo=postman&logoColor=FE5000)](#) 
+[![Postman Badge](https://img.shields.io/badge/-Postman-EF5B25?style=for-the-badge&labelColor=black&logo=postman&logoColor=EF5B25)](#) [![GIT Badge](https://img.shields.io/badge/-Git-FE5000?style=for-the-badge&labelColor=black&logo=git&logoColor=F1502F)](#)
 
 <details>
 
