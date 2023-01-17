@@ -9,38 +9,22 @@ I'm Mykhailo Peremskyi a Junior Quality Assurance.
 <!-- TODO: Add last video link -->
 
 - 🔭 I’m currently loking for a job on the position Junior Manual Quality Assurance
-- :paperclip: [My Resume/CV](#)
+- :paperclip: [My Resume/CV](https://github.com/mperemskyi/mperemskyi/blob/main/resume/CV_Mykhailo%20Peremskyi.pdf)
 - 🤔 I’m looking for help with Outstanding Video ideas.
-- 📫 How to reach me: mykhailo.peremskyi@gmail.com.
+- 📫 How to reach me: michal.peremskyi@gmail.com.
 - 😄 Pronouns: Michał 
 - ⚡ Hobbys: blockchain, cryptocurrency market, world economy.
 
 </br>
-
-### Test Documentation (in progress)
-
-* [Checklists](https://github.com/mperemskyi/checklists)
-* [Test Cases](https://github.com/mperemskyi/test-cases)
-* [Bug Reports](https://github.com/mperemskyi/bug-reports)
-* [SQL Queries](https://github.com/mperemskyi/sql-queries)
-* Postman Collections
-* Mindmaps and Flowcharts
-
-</br>
-
-### Tools
-
-<!-- TODO: Make technologies links takes you to repositories -->
-
-[![Postman Badge](https://img.shields.io/badge/-Postman-EF5B25?style=for-the-badge&labelColor=black&logo=postman&logoColor=EF5B25)](#) [![GIT Badge](https://img.shields.io/badge/-Git-FE5000?style=for-the-badge&labelColor=black&logo=git&logoColor=F1502F)](#)
 
 <details>
 
 <summary> More staff about me</summary>
 
 I completed a course at TechMission - Academy of IT Education specializing in Manual QA Engineer. 
-I gained knowledge in testing and quality control. The practical tasks helped me to understand how to write test cases, checklists, conduct testing, detect prioritization, find bugs, and to gather that data in Jira system. 
+I gained knowledge in testing and quality control. The practical tasks helped me to understand how to write test cases, checklists, conduct testing, detect prioritization, find bugs, and to gather that data in Jira system.</br>
 As for now I have:
+
 * Knowledge of types and levels of testing, principles of testing
 * Understanding the role of testing in software development
 * Understanding of the SDLC and STLC, Bug's Life Cycle
@@ -56,6 +40,25 @@ My goal is to transfer all these experiences to a new area, where I can continue
 I like to meet new people, talk about blockchain and new technologies, read articles about economy and programming (especially Python language)
 
 </details>
+
+</br>
+
+### Test Documentation (in progress)
+
+* [Checklists](https://github.com/mperemskyi/checklists)
+* [Test Cases](https://github.com/mperemskyi/test-cases)
+* [Bug Reports](https://github.com/mperemskyi/bug-reports)
+* [SQL Queries]
+* Postman Collections
+* Mindmaps and Flowcharts
+
+</br>
+
+### Tools
+
+<!-- TODO: Make technologies links takes you to repositories -->
+
+[![Postman Badge](https://img.shields.io/badge/-Postman-EF5B25?style=for-the-badge&labelColor=black&logo=postman&logoColor=EF5B25)](#) [![GIT Badge](https://img.shields.io/badge/-Git-FE5000?style=for-the-badge&labelColor=black&logo=git&logoColor=F1502F)](#)
 
 
 </br>
