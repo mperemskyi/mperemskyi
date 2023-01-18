@@ -19,10 +19,11 @@ I'm Mykhailo Peremskyi a Junior Quality Assurance.
 
 <details>
 
-<summary> More staff about me</summary>
+More staff about me
 
 I completed a course at TechMission - Academy of IT Education specializing in Manual QA Engineer. 
 I gained knowledge in testing and quality control. The practical tasks helped me to understand how to write test cases, checklists, conduct testing, detect prioritization, find bugs, and to gather that data in Jira system.</br>
+
 As for now I have:
 
 * Knowledge of types and levels of testing, principles of testing
@@ -48,7 +49,7 @@ I like to meet new people, talk about blockchain and new technologies, read arti
 * [Checklists](https://github.com/mperemskyi/checklists)
 * [Test Cases](https://github.com/mperemskyi/test-cases)
 * [Bug Reports](https://github.com/mperemskyi/bug-reports)
-* [SQL Queries]
+* [SQL Queries](https://github.com/mperemskyi/sql-queries)
 * Postman Collections
 * Mindmaps and Flowcharts
 
