@@ -46,7 +46,7 @@ I like to meet new people, talk about blockchain and new technologies, read arti
 * [Test Cases](https://github.com/mperemskyi/test-cases)
 * [Bug Reports](https://github.com/mperemskyi/bug-reports)
 * [SQL Queries](https://github.com/mperemskyi/sql-queries)
-* Postman Collections(https://github.com/mperemskyi/postman-collections)
+* [Postman Collections](https://github.com/mperemskyi/postman-collections)
 * Mindmaps and Flowcharts
 
 </br>
