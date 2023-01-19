@@ -13,11 +13,9 @@ I'm Mykhailo Peremskyi a Junior Quality Assurance.
 - 🤔 I’m looking for help with Outstanding Video ideas.
 - 📫 How to reach me: michal.peremskyi@gmail.com.
 - 😄 Pronouns: Michał 
-- ⚡ Hobbys: blockchain, cryptocurrency market, world economy.
+- ⚡ Hobbys: python, blockchain, cryptocurrency market, world economy.
 
 </br>
-
-<details>
 
 More staff about me
 
@@ -40,8 +38,6 @@ My goal is to transfer all these experiences to a new area, where I can continue
 
 I like to meet new people, talk about blockchain and new technologies, read articles about economy and programming (especially Python language)
 
-</details>
-
 </br>
 
 ### Test Documentation (in progress)
@@ -50,7 +46,7 @@ I like to meet new people, talk about blockchain and new technologies, read arti
 * [Test Cases](https://github.com/mperemskyi/test-cases)
 * [Bug Reports](https://github.com/mperemskyi/bug-reports)
 * [SQL Queries](https://github.com/mperemskyi/sql-queries)
-* Postman Collections
+* Postman Collections(https://github.com/mperemskyi/postman-collections)
 * Mindmaps and Flowcharts
 
 </br>
