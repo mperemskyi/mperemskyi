@@ -50,7 +50,7 @@ I like to meet new people, talk about blockchain and new technologies, read arti
 * [Bug Reports](https://github.com/mperemskyi/bug-reports)
 * [SQL Queries](https://github.com/mperemskyi/sql-queries)
 * [Postman Collections](https://github.com/mperemskyi/postman-collections)
-* Mindmaps and Flowcharts
+* [Mindmaps and Flowcharts](https://github.com/mperemskyi/mindmaps-and-flowcharts)
 
 </br>
 
