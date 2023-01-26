@@ -46,11 +46,11 @@ I like to meet new people, talk about blockchain and new technologies, read arti
 ### Test Documentation (in progress)
 
 * [Checklists](https://github.com/mperemskyi/checklists)
-* [Test Cases](https://github.com/mperemskyi/test-cases)
-* [Bug Reports](https://github.com/mperemskyi/bug-reports)
-* [SQL Queries](https://github.com/mperemskyi/sql-queries)
-* [Postman Collections](https://github.com/mperemskyi/postman-collections)
-* [Mindmaps and Flowcharts](https://github.com/mperemskyi/mindmaps-and-flowcharts)
+* Test Cases
+* Bug Reports
+* SQL Queries
+* Postman Collections
+* Mindmaps and Flowcharts
 
 </br>
 
