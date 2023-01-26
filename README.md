@@ -45,7 +45,7 @@ I like to meet new people, talk about blockchain and new technologies, read arti
 
 ### Test Documentation (in progress)
 
-* [Checklists](https://github.com/mperemskyi/checklists)
+* [Checklists](https://github.com/mperemskyi/QA-study/tree/main/Checklist)
 * Test Cases
 * Bug Reports
 * SQL Queries
